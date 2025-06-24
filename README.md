@@ -8,12 +8,12 @@ public class evcplus {
 
         //Haraaga
 
-        double haraaga=100;
+        double haraaga=500;
         String dial="*770#";
 
         //Pinka
 
-        int pin=1212;
+        int pin=2024;
         String dial_up=input.nextLine();
         if(dial_up.equals(dial)){
             System.out.println("-EVCPLUS-");
